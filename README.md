@@ -17,8 +17,6 @@ Primarily intended for network stress testing and educational exploration, it al
 
 > **Important:**  
 > Please use this tool responsibly and only on networks and systems you own or have explicit permission to test.  
-> Unauthorized use may violate laws and ethical guidelines.
-
 ### Prerequisites
 
 - [Python 3](https://www.python.org/downloads/) must be installed.
@@ -60,10 +58,6 @@ Finished sending.
 - Each packet is sent after a brief, randomized delay to simulate realistic network traffic.
 - Progress is displayed for every 100 packets sent.
 
-## Disclaimer
-
-This software is intended solely for authorized testing and educational purposes.  
-The author assumes no responsibility for misuse or any consequences resulting from unauthorized activity.
 
 ## License
 
