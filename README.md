@@ -16,7 +16,6 @@ Primarily intended for network stress testing and educational exploration, it al
 ## Usage
 
 > **Important:**  
-> Please use this tool responsibly and only on networks and systems you own or have explicit permission to test.  
 ### Prerequisites
 
 - [Python 3](https://www.python.org/downloads/) must be installed.
